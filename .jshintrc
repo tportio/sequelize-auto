@@ -11,10 +11,11 @@
         "waitsFor": false,
         "runs": false
     },
-    "camelcase": true,
+    "interfacePascalCase": true,
+    "camelCase": false,
     "curly": false,
     "forin": true,
-    "indent": 2,
+    "indentation": 2,
     "unused": true,
     "asi": true,
     "evil": false,
