@@ -2,6 +2,7 @@ test/models/*.js
 *.swp
 .idea
 .DS_STORE
+.git
 node_modules
 npm-debug.log
 *~
